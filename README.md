@@ -1,6 +1,7 @@
 # ProjectTeam4.github.io
-Project Title: 
-**Term Project**
+**Project Title: US Stock Market Analysis **
+
+
 Project Description
 
 Based on the backgrounds and interests of the group members, we would like to explore trends in the equity investment market by using historical US stock market information as a proxy. The goal is to perform analysis that would answer the following questions
