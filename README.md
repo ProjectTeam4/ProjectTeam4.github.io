@@ -1,5 +1,6 @@
 # ProjectTeam4.github.io
-**Project Title: US Stock Market Analysis **
+
+**Project Title: S&P 500 Stock Analysis: Is Technology the right investment for the future?**
 
 
 Project Description
